@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "webXR",
+"productVersion": "0.1",
+"dataUrl": "nuevo.data.unityweb",
+"wasmCodeUrl": "nuevo.wasm.code.unityweb",
+"wasmFrameworkUrl": "nuevo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
